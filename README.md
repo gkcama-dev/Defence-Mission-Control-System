@@ -1,7 +1,7 @@
 # 🛰️ Defence Mission Control System  
 **Real-Time Java OOP + Swing Simulation Project**
 
-![Defence Mission Banner](https://github.com/yourusername/Defence-Mission-Control-System/assets/banner.png)
+![Defence Mission Banner](main_controller.png)
 
 ---
 
@@ -87,13 +87,4 @@ Designed modern Swing UI with FlatLaf.
 
 “Code it. Simulate it. Command it.”
 
-
-## 💬 Mission Flow  
-
-```text
-Main Controller → "Are you ready for your mission?"
-       ↓
-Helicopter → "Ready for mission, awaiting coordinates..."
-Tank → "Standing by for ground operation..."
-Submarine → "Systems ready, commencing sonar scan..."
 
