@@ -2,9 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package controller;
+package main;
 
 import com.formdev.flatlaf.themes.FlatMacDarkLaf;
+import patterns.DefenceObserverable;
 import gui.Helicopter;
 import gui.MainController;
 import gui.Submarine;

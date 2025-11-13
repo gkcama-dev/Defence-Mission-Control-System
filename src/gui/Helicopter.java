@@ -5,8 +5,8 @@
 package gui;
 
 import com.formdev.flatlaf.themes.FlatMacDarkLaf;
-import controller.DefenceObserver;
-import controller.DefenceObserverableInterface;
+import patterns.DefenceObserver;
+import patterns.DefenceObserverableInterface;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import javax.swing.JScrollPane;

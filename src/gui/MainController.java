@@ -5,7 +5,7 @@
 package gui;
 
 import com.formdev.flatlaf.themes.FlatMacDarkLaf;
-import controller.DefenceObserverableInterface;
+import patterns.DefenceObserverableInterface;
 import java.awt.Color;
 import javax.swing.JTextPane;
 import javax.swing.text.BadLocationException;

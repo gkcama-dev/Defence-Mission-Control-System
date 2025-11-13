@@ -5,7 +5,7 @@
 package gui;
 
 import com.formdev.flatlaf.themes.FlatMacDarkLaf;
-import controller.DefenceObserver;
+import patterns.DefenceObserver;
 import java.awt.Color;
 import javax.swing.Timer;
 import javax.swing.text.BadLocationException;
